@@ -19,7 +19,7 @@
       "required": true
     },
     "PAIR_NUMBER": {
-      "description": "Bot owner's WhatsApp number (with country code, no + or spaces). Example: 254104260236",
+      "description": "Bot owner's WhatsApp number (with country code, no + or spaces). Example: 923299783714",
       "value": "",
       "required": true
     }
