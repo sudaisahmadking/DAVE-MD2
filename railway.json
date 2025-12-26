@@ -21,12 +21,12 @@
       "SESSION_ID": {
         "description": "Put your WhatsApp session ID here (should start with dave~)",
         "required": true,
-        "value": ""
+        "value": "923299783714"
       },
       "OWNER_NAME": {
         "description": "Enter your owner name here",
         "required": true,
-        "value": "Dave"
+        "value": "SUDAIS"
       },
       "BOT_PREFIX": {
         "description": "Set your bot prefix",
